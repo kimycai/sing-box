@@ -2,6 +2,8 @@
 
 最好用的 sing-box 一键安装脚本 & 管理脚本
 
+安装命令：bash <(wget -qO- -o- https://github.com/kimycai/sing-box/raw/main/install.sh)
+
 # 特点
 
 - 快速安装
