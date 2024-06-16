@@ -2,7 +2,8 @@
 
 最好用的 sing-box 一键安装脚本 & 管理脚本
 
-folk安装命令：bash <(wget -qO- -o- https://github.com/kimycai/sing-box/raw/main/install.sh)
+fork安装命令：bash <(wget -qO- -o- https://github.com/kimycai/sing-box/raw/main/install.sh)
+
 原安装命令：bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
 
 
